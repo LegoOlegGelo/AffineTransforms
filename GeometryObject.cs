@@ -10,9 +10,9 @@ namespace LinearOperators
     internal class GeometryObject
     {
         public string Name { get; set; }
-        public Pen Pen { get; set; }
         public int VertexCount => Vertexes.Length;
         public PointF[] Vertexes { get; private set; }
+        public Pen Pen { get; set; }
 
         public GeometryObject(PointF v1 = default, PointF v2 = default, string name = "none", Pen p = null)
         {

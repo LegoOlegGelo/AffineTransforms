@@ -110,7 +110,7 @@ namespace LinearOperators
 
             var rel1 = new PointF((float)Math.Sin(time / 10000 * 2 * Math.PI) * 150, -(float)Math.Cos(time / 10000 * 2 * Math.PI) * 100);
             var offset1 = new PointF(rel1.X - old_point.X, rel1.Y - old_point.Y);
-            gObjects[0].StandartTransform((float)(timerTick / -5000 * 2 * Math.PI), offset1, rel1);
+            gObjects[0].StandartTransform(-(float)(timerTick / 5000 * 2 * Math.PI), offset1, rel1);
 
             var rel2 = gObjects[0].GetCenter();
             var offset2 = new PointF((rel2.X - o1_old_center.X), (rel2.Y - o1_old_center.Y));
