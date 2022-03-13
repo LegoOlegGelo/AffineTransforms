@@ -1,1 +1,1 @@
-[![Link to youtube](imgs/screen.jpg)](https://youtu.be/MgGMO3ArcH4)
+[![Link to youtube](imgs/screen.png)](https://youtu.be/MgGMO3ArcH4)
