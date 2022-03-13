@@ -1,4 +1,4 @@
 Demonstration on youtube:
-[![Link to youtube](imgs/screen.png)](https://youtu.be/MgGMO3ArcH4)
+[![Link to youtube](imgs/screen.gif)](https://youtu.be/MgGMO3ArcH4)
 
 :)
